@@ -24,6 +24,11 @@ java -jar groove-decoder-0.1.0-standalone.jar 0123456789.dat
 
 *This will create a 0123456789.mp3 file*
 
+## Thanks
+
+I do not take credit for the actual transcode algorihtm, which I learned from
+http://lgms.nl/blog-1
+
 ## License
 
 Copyright © 2015 TurboHz
