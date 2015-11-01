@@ -1,6 +1,6 @@
 # groove-decoder
 
-Transcodes Grooveshark offline `.dat` files to useable `.mp3` files
+Converts Grooveshark offline `.dat` files into useable `.mp3` files.
 
 ## Installation
 
@@ -26,7 +26,7 @@ java -jar groove-decoder-0.1.0-standalone.jar 0123456789.dat
 
 ## Thanks
 
-I do not take credit for the actual transcode algorihtm, which I learned from
+I do not take credit for the actual unscramble algorithm, which I learned from
 http://lgms.nl/blog-1
 
 ## License
